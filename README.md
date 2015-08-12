@@ -1,4 +1,4 @@
-android_vendor_motorola_osprey
+vendor lemeng
 ==============================
 
-Proprietary blobs for Motorola Moto G 2015 [osprey]
+vendor lemeng
